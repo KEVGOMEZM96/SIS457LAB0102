@@ -4,11 +4,9 @@ using namespace std;
 
 int main()
 {
-	char v = 'v';
-	char s = 's';
-
-
-	while (v == 'v') {
+	string v = "v";
+	string s = "s";
+	while (v == "v" || v =="V") {
 
 		cout << "Mi nombre es Kevin Gomez Mollo" << endl;
 		cout << "Tengo 25 años" << endl;
