@@ -15,14 +15,14 @@ int main()
 		cout << "Tengo 4 hermanas llamadas Erika,Nicole,Valentina y Sasha" << endl;
 		cout << "Tengo un solo abuelo llamado Ramon Gomez" << endl;
 		cout << "Tengo una novia llamada Maria Luz" << endl;
-		cout << "Tengo doble nacionalidad tanto argrntina como boliviana" << endl;
+		cout << "Tengo doble nacionalidad tanto argentina como boliviana" << endl;
 		cout << "Actualmente vivo en la Ciudad de Sucre" << endl;
 		cout << "Estudio la carrera de Ingenieria de Sistemas" << endl;
 		cout << "Mis pasastiempos favoritos son salir a comer,ir a lugares tranquilos y jugar algunos videojuegos" << endl;
-		cout << "Mi color favorito es el color negro" << endl;
+		cout << "Mi color favorito es el color verde" << endl;
 		cout << "Mi club favorito de futbol es Boca Jr" << endl;
 		cout << "Uno de mis sueños es poder viajar ,conocer lugares y comer comidas exoticas" << endl;
-		cout << "Actualmente estoy en el tercer cuerso de la materia de sis457" << endl;
+		cout << "Actualmente estoy en el tercer curso de la materia de sis457" << endl;
 		cout << "Desea volver a ver la biografía oprima la (v/V) Para salir oprima la (s/S) para salir" << endl;
 		cin >> v;
 
